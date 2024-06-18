@@ -7,3 +7,4 @@ Este projeto realiza uma busca em um período determinado pelo ususário em rela
 ## Estrutura do Projeto
 
 - **projeto02.pnyb**: Código no formato jupyter notebook.
+- **README.md**: Descrição do projeto.
